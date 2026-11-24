@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-09",
+  "new_words": [
+    {
+      "id": 1600,
+      "thai": "พิจารณา",
+      "sense_count": 2
+    },
+    {
+      "id": 1806,
+      "thai": "อาหารเที่ยง",
+      "sense_count": 1
+    },
+    {
+      "id": 1975,
+      "thai": "บุคคล",
+      "sense_count": 2
+    },
+    {
+      "id": 1986,
+      "thai": "ก็จะ",
+      "sense_count": 1
+    },
+    {
+      "id": 1989,
+      "thai": "โรค",
+      "sense_count": 1
+    },
+    {
+      "id": 2001,
+      "thai": "ร่วม",
+      "sense_count": 2
+    },
+    {
+      "id": 2039,
+      "thai": "พัฒนา",
+      "sense_count": 1
+    },
+    {
+      "id": 2051,
+      "thai": "กล่าว",
+      "sense_count": 1
+    },
+    {
+      "id": 2086,
+      "thai": "กรณี",
+      "sense_count": 2
+    },
+    {
+      "id": 2127,
+      "thai": "เศรษฐกิจ",
+      "sense_count": 1
+    },
+    {
+      "id": 2202,
+      "thai": "สังคม",
+      "sense_count": 1
+    },
+    {
+      "id": 2213,
+      "thai": "ประจำ",
+      "sense_count": 1
+    },
+    {
+      "id": 2362,
+      "thai": "พรุ่งนี้",
+      "sense_count": 1
+    },
+    {
+      "id": 2376,
+      "thai": "หิว",
+      "sense_count": 1
+    },
+    {
+      "id": 2377,
+      "thai": "อิ่ม",
+      "sense_count": 1
+    },
+    {
+      "id": 2378,
+      "thai": "อร่อย",
+      "sense_count": 1
+    },
+    {
+      "id": 2379,
+      "thai": "เผ็ด",
+      "sense_count": 1
+    },
+    {
+      "id": 2384,
+      "thai": "น้ำเปล่า",
+      "sense_count": 1
+    },
+    {
+      "id": 2396,
+      "thai": "ผลไม้",
+      "sense_count": 1
+    },
+    {
+      "id": 2406,
+      "thai": "แพง",
+      "sense_count": 1
+    },
+    {
+      "id": 2407,
+      "thai": "ถูก",
+      "sense_count": 1
+    },
+    {
+      "id": 2432,
+      "thai": "ห้องน้ำ",
+      "sense_count": 1
+    },
+    {
+      "id": 2458,
+      "thai": "ขอโทษ",
+      "sense_count": 1
+    },
+    {
+      "id": 2459,
+      "thai": "ไม่เป็นไร",
+      "sense_count": 1
+    },
+    {
+      "id": 2461,
+      "thai": "ชื่อ",
+      "sense_count": 1
+    },
+    {
+      "id": 2462,
+      "thai": "ครับ",
+      "sense_count": 1
+    },
+    {
+      "id": 2463,
+      "thai": "ค่ะ",
+      "sense_count": 1
+    },
+    {
+      "id": 2464,
+      "thai": "ได้",
+      "sense_count": 1
+    },
+    {
+      "id": 2470,
+      "thai": "สบายดี",
+      "sense_count": 1
+    },
+    {
+      "id": 2473,
+      "thai": "ดี",
+      "sense_count": 1
+    },
+    {
+      "id": 2474,
+      "thai": "ไป",
+      "sense_count": 1
+    },
+    {
+      "id": 2475,
+      "thai": "คุณ",
+      "sense_count": 1
+    },
+    {
+      "id": 2477,
+      "thai": "พ่อ",
+      "sense_count": 1
+    },
+    {
+      "id": 2479,
+      "thai": "เธอ",
+      "sense_count": 1
+    },
+    {
+      "id": 2480,
+      "thai": "หา",
+      "sense_count": 1
+    },
+    {
+      "id": 2481,
+      "thai": "พี่",
+      "sense_count": 1
+    },
+    {
+      "id": 2486,
+      "thai": "ของ",
+      "sense_count": 1
+    },
+    {
+      "id": 2487,
+      "thai": "ด้วย",
+      "sense_count": 1
+    },
+    {
+      "id": 2488,
+      "thai": "ยัง",
+      "sense_count": 1
+    },
+    {
+      "id": 2494,
+      "thai": "ถึง",
+      "sense_count": 1
+    },
+    {
+      "id": 2501,
+      "thai": "เรื่อง",
+      "sense_count": 1
+    },
+    {
+      "id": 2505,
+      "thai": "ทุก",
+      "sense_count": 1
+    },
+    {
+      "id": 2507,
+      "thai": "เปลี่ยน",
+      "sense_count": 1
+    },
+    {
+      "id": 2508,
+      "thai": "ให้",
+      "sense_count": 1
+    },
+    {
+      "id": 2509,
+      "thai": "บ้าน",
+      "sense_count": 1
+    },
+    {
+      "id": 2512,
+      "thai": "ทำ",
+      "sense_count": 1
+    },
+    {
+      "id": 2515,
+      "thai": "ออก",
+      "sense_count": 1
+    },
+    {
+      "id": 2518,
+      "thai": "เมื่อวาน",
+      "sense_count": 1
+    },
+    {
+      "id": 2520,
+      "thai": "นั่ง",
+      "sense_count": 1
+    },
+    {
+      "id": 2535,
+      "thai": "ต้องการ",
+      "sense_count": 1
+    }
+  ],
+  "sources": [
+    "https://dict.longdo.com/search/ร่วม"
+  ],
+  "method": "逐义项撰写并核对用法，三语说明；不改变原有义项、例句及学习进度标识。",
+  "quota": "User reported 36% weekly remaining before the preceding 10-word batch; no account quota API available.",
+  "stop": "Continue until all introductory words are complete, saving every 50 words; stop if user reports weekly quota below 20%."
+}

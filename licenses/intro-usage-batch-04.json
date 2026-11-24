@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-09",
+  "new_words": [
+    {
+      "id": 372,
+      "thai": "หญิง",
+      "sense_count": 1
+    },
+    {
+      "id": 374,
+      "thai": "ระดับ",
+      "sense_count": 1
+    },
+    {
+      "id": 378,
+      "thai": "ทำให้",
+      "sense_count": 1
+    },
+    {
+      "id": 380,
+      "thai": "เมือง",
+      "sense_count": 2
+    },
+    {
+      "id": 395,
+      "thai": "คำ",
+      "sense_count": 3
+    },
+    {
+      "id": 400,
+      "thai": "นาน",
+      "sense_count": 2
+    },
+    {
+      "id": 402,
+      "thai": "การ",
+      "sense_count": 3
+    },
+    {
+      "id": 413,
+      "thai": "กลุ่ม",
+      "sense_count": 1
+    },
+    {
+      "id": 414,
+      "thai": "กำลัง",
+      "sense_count": 3
+    },
+    {
+      "id": 420,
+      "thai": "วิธี",
+      "sense_count": 1
+    },
+    {
+      "id": 430,
+      "thai": "สามารถ",
+      "sense_count": 1
+    },
+    {
+      "id": 431,
+      "thai": "พระ",
+      "sense_count": 3
+    },
+    {
+      "id": 443,
+      "thai": "ที่สุด",
+      "sense_count": 1
+    },
+    {
+      "id": 444,
+      "thai": "ข้อมูล",
+      "sense_count": 1
+    },
+    {
+      "id": 450,
+      "thai": "อาหารเช้า",
+      "sense_count": 1
+    },
+    {
+      "id": 454,
+      "thai": "ด้าน",
+      "sense_count": 3
+    },
+    {
+      "id": 455,
+      "thai": "รัฐ",
+      "sense_count": 2
+    },
+    {
+      "id": 466,
+      "thai": "เลือก",
+      "sense_count": 1
+    },
+    {
+      "id": 518,
+      "thai": "กระทำ",
+      "sense_count": 1
+    },
+    {
+      "id": 551,
+      "thai": "กำหนด",
+      "sense_count": 3
+    },
+    {
+      "id": 734,
+      "thai": "ประกอบ",
+      "sense_count": 3
+    },
+    {
+      "id": 750,
+      "thai": "ผลิต",
+      "sense_count": 1
+    },
+    {
+      "id": 844,
+      "thai": "ศึกษา",
+      "sense_count": 2
+    },
+    {
+      "id": 1098,
+      "thai": "ดัง",
+      "sense_count": 3
+    },
+    {
+      "id": 1106,
+      "thai": "ถาม",
+      "sense_count": 1
+    },
+    {
+      "id": 1107,
+      "thai": "ภาพ",
+      "sense_count": 2
+    },
+    {
+      "id": 1111,
+      "thai": "จำนวน",
+      "sense_count": 1
+    },
+    {
+      "id": 1114,
+      "thai": "สำคัญ",
+      "sense_count": 1
+    },
+    {
+      "id": 1120,
+      "thai": "หน้าที่",
+      "sense_count": 2
+    },
+    {
+      "id": 1127,
+      "thai": "ระบบ",
+      "sense_count": 1
+    },
+    {
+      "id": 1135,
+      "thai": "สร้าง",
+      "sense_count": 1
+    },
+    {
+      "id": 1150,
+      "thai": "ระยะ",
+      "sense_count": 3
+    },
+    {
+      "id": 1174,
+      "thai": "หลาย",
+      "sense_count": 2
+    },
+    {
+      "id": 1179,
+      "thai": "รักษา",
+      "sense_count": 3
+    },
+    {
+      "id": 1202,
+      "thai": "ผล",
+      "sense_count": 2
+    },
+    {
+      "id": 1204,
+      "thai": "มาตรา",
+      "sense_count": 2
+    },
+    {
+      "id": 1207,
+      "thai": "ชาว",
+      "sense_count": 1
+    },
+    {
+      "id": 1230,
+      "thai": "แสดง",
+      "sense_count": 3
+    },
+    {
+      "id": 1232,
+      "thai": "ความ",
+      "sense_count": 3
+    },
+    {
+      "id": 1248,
+      "thai": "พื้นที่",
+      "sense_count": 1
+    },
+    {
+      "id": 1251,
+      "thai": "หลัก",
+      "sense_count": 2
+    },
+    {
+      "id": 1254,
+      "thai": "ตน",
+      "sense_count": 2
+    },
+    {
+      "id": 1257,
+      "thai": "ต้น",
+      "sense_count": 3
+    },
+    {
+      "id": 1260,
+      "thai": "รวม",
+      "sense_count": 2
+    },
+    {
+      "id": 1271,
+      "thai": "ปฏิบัติ",
+      "sense_count": 3
+    },
+    {
+      "id": 1282,
+      "thai": "ผู้",
+      "sense_count": 2
+    },
+    {
+      "id": 1287,
+      "thai": "อาหารกลางวัน",
+      "sense_count": 1
+    },
+    {
+      "id": 1299,
+      "thai": "เสนอ",
+      "sense_count": 2
+    },
+    {
+      "id": 1316,
+      "thai": "บริการ",
+      "sense_count": 1
+    },
+    {
+      "id": 1319,
+      "thai": "กฎหมาย",
+      "sense_count": 1
+    }
+  ],
+  "sources": [
+    "https://en.wiktionary.org/wiki/คำ",
+    "https://th.wiktionary.org/wiki/นาน",
+    "https://th.wiktionary.org/wiki/ด้าน",
+    "https://www.dltv.ac.th/utils/files/download/584"
+  ],
+  "method": "逐义项撰写并核对用法，三语说明；不改变原有义项、例句及学习进度标识。",
+  "quota": "User reported 36% weekly remaining before the preceding 10-word batch; no account quota API available.",
+  "stop": "Continue until all introductory words are complete, saving every 50 words; stop if user reports weekly quota below 20%."
+}

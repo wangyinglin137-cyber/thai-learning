@@ -1,0 +1,39 @@
+{
+  "status": "complete",
+  "level": "专业级",
+  "total_words": 794,
+  "completed_words": 794,
+  "pending_words": 0,
+  "added_words": 794,
+  "added_senses": 813,
+  "preserved_usage_senses": 4943,
+  "new_audio": 1505,
+  "thai_audio_phrases_checked": 1837,
+  "batch_sizes": [
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    94
+  ],
+  "final_corrections": 203,
+  "version": "20261021-professional-usage-9",
+  "renderer": "passed in Node for all new localized notes",
+  "browser_visual_test": "not performed",
+  "native_teacher_review": false,
+  "sources": [
+    "https://periodic-table.rsc.org/",
+    "https://stats.iupac.org/reports/periodic_table/index.html",
+    "https://www.un.org/en/about-us/un-charter/full-text",
+    "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-tract-how-it-works",
+    "https://www.enlightenth.com/พจนานุกรม-ไทย-ไทย-ก/",
+    "https://ministeroffice.moph.go.th/images/admin_folder/pdf/palace/royal_vocab.pdf"
+  ],
+  "translation_review": "Machine-assisted translations with editorial corrections; no native-teacher review",
+  "saved_at": "2026-10-21T13:51:17",
+  "backup": "F:\\PY\\泰语学习\\网页版 - V2\\更新备份\\专业级用法最终复核-20261021-135117",
+  "installed_files_verified": true
+}

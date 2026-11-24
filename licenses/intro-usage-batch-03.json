@@ -1,0 +1,431 @@
+{
+  "date": "2026-10-09",
+  "new_words": [
+    {
+      "id": 61,
+      "thai": "เวลา",
+      "sense_count": 1
+    },
+    {
+      "id": 62,
+      "thai": "อยู่",
+      "sense_count": 3
+    },
+    {
+      "id": 63,
+      "thai": "เงิน",
+      "sense_count": 2
+    },
+    {
+      "id": 66,
+      "thai": "ห้อง",
+      "sense_count": 1
+    },
+    {
+      "id": 67,
+      "thai": "รัก",
+      "sense_count": 1
+    },
+    {
+      "id": 70,
+      "thai": "จะ",
+      "sense_count": 1
+    },
+    {
+      "id": 72,
+      "thai": "ฟัง",
+      "sense_count": 2
+    },
+    {
+      "id": 73,
+      "thai": "มาก",
+      "sense_count": 1
+    },
+    {
+      "id": 74,
+      "thai": "รู้",
+      "sense_count": 2
+    },
+    {
+      "id": 75,
+      "thai": "พูด",
+      "sense_count": 1
+    },
+    {
+      "id": 76,
+      "thai": "ใช้",
+      "sense_count": 1
+    },
+    {
+      "id": 77,
+      "thai": "เอา",
+      "sense_count": 2
+    },
+    {
+      "id": 78,
+      "thai": "จีน",
+      "sense_count": 2
+    },
+    {
+      "id": 82,
+      "thai": "เปิด",
+      "sense_count": 1
+    },
+    {
+      "id": 85,
+      "thai": "อย่างไร",
+      "sense_count": 1
+    },
+    {
+      "id": 88,
+      "thai": "งาน",
+      "sense_count": 1
+    },
+    {
+      "id": 89,
+      "thai": "หน้า",
+      "sense_count": 3
+    },
+    {
+      "id": 91,
+      "thai": "อาหาร",
+      "sense_count": 1
+    },
+    {
+      "id": 93,
+      "thai": "สูง",
+      "sense_count": 1
+    },
+    {
+      "id": 97,
+      "thai": "ตา",
+      "sense_count": 3
+    },
+    {
+      "id": 98,
+      "thai": "เล็ก",
+      "sense_count": 1
+    },
+    {
+      "id": 99,
+      "thai": "โรงเรียน",
+      "sense_count": 1
+    },
+    {
+      "id": 102,
+      "thai": "ชอบ",
+      "sense_count": 1
+    },
+    {
+      "id": 103,
+      "thai": "กลับ",
+      "sense_count": 1
+    },
+    {
+      "id": 107,
+      "thai": "หลัง",
+      "sense_count": 3
+    },
+    {
+      "id": 108,
+      "thai": "หนังสือ",
+      "sense_count": 1
+    },
+    {
+      "id": 111,
+      "thai": "มือ",
+      "sense_count": 1
+    },
+    {
+      "id": 121,
+      "thai": "ใหม่",
+      "sense_count": 2
+    },
+    {
+      "id": 124,
+      "thai": "ภาษา",
+      "sense_count": 1
+    },
+    {
+      "id": 132,
+      "thai": "ตรง",
+      "sense_count": 3
+    },
+    {
+      "id": 138,
+      "thai": "ประเทศ",
+      "sense_count": 2
+    },
+    {
+      "id": 142,
+      "thai": "ขาย",
+      "sense_count": 1
+    },
+    {
+      "id": 143,
+      "thai": "สี",
+      "sense_count": 3
+    },
+    {
+      "id": 144,
+      "thai": "เรียน",
+      "sense_count": 1
+    },
+    {
+      "id": 145,
+      "thai": "เขียน",
+      "sense_count": 2
+    },
+    {
+      "id": 159,
+      "thai": "ใจ",
+      "sense_count": 2
+    },
+    {
+      "id": 161,
+      "thai": "อ่าน",
+      "sense_count": 1
+    },
+    {
+      "id": 168,
+      "thai": "ไทย",
+      "sense_count": 2
+    },
+    {
+      "id": 178,
+      "thai": "ช่วย",
+      "sense_count": 1
+    },
+    {
+      "id": 179,
+      "thai": "ซื้อ",
+      "sense_count": 1
+    },
+    {
+      "id": 180,
+      "thai": "ทำงาน",
+      "sense_count": 1
+    },
+    {
+      "id": 181,
+      "thai": "ราคา",
+      "sense_count": 1
+    },
+    {
+      "id": 182,
+      "thai": "เข้าใจ",
+      "sense_count": 2
+    },
+    {
+      "id": 184,
+      "thai": "ชั้น",
+      "sense_count": 3
+    },
+    {
+      "id": 187,
+      "thai": "วันที่",
+      "sense_count": 1
+    },
+    {
+      "id": 188,
+      "thai": "อย่าง",
+      "sense_count": 3
+    },
+    {
+      "id": 189,
+      "thai": "ฉันรักคุณ",
+      "sense_count": 1
+    },
+    {
+      "id": 191,
+      "thai": "เช่น",
+      "sense_count": 1
+    },
+    {
+      "id": 193,
+      "thai": "เจ้า",
+      "sense_count": 3
+    },
+    {
+      "id": 195,
+      "thai": "โดย",
+      "sense_count": 1
+    },
+    {
+      "id": 197,
+      "thai": "เหมือน",
+      "sense_count": 2
+    },
+    {
+      "id": 200,
+      "thai": "กัน",
+      "sense_count": 3
+    },
+    {
+      "id": 201,
+      "thai": "เกี่ยวกับ",
+      "sense_count": 1
+    },
+    {
+      "id": 207,
+      "thai": "ทั้ง",
+      "sense_count": 1
+    },
+    {
+      "id": 209,
+      "thai": "บริษัท",
+      "sense_count": 1
+    },
+    {
+      "id": 214,
+      "thai": "แห่ง",
+      "sense_count": 2
+    },
+    {
+      "id": 216,
+      "thai": "ตั้งแต่",
+      "sense_count": 1
+    },
+    {
+      "id": 218,
+      "thai": "เท่านั้น",
+      "sense_count": 1
+    },
+    {
+      "id": 219,
+      "thai": "ขอ",
+      "sense_count": 2
+    },
+    {
+      "id": 221,
+      "thai": "เสียง",
+      "sense_count": 1
+    },
+    {
+      "id": 222,
+      "thai": "เริ่ม",
+      "sense_count": 1
+    },
+    {
+      "id": 228,
+      "thai": "มนุษย์",
+      "sense_count": 1
+    },
+    {
+      "id": 230,
+      "thai": "สาว",
+      "sense_count": 3
+    },
+    {
+      "id": 231,
+      "thai": "อัน",
+      "sense_count": 3
+    },
+    {
+      "id": 233,
+      "thai": "ชีวิต",
+      "sense_count": 1
+    },
+    {
+      "id": 234,
+      "thai": "ผ่าน",
+      "sense_count": 1
+    },
+    {
+      "id": 235,
+      "thai": "ตลอด",
+      "sense_count": 1
+    },
+    {
+      "id": 237,
+      "thai": "เอง",
+      "sense_count": 3
+    },
+    {
+      "id": 238,
+      "thai": "คิด",
+      "sense_count": 3
+    },
+    {
+      "id": 242,
+      "thai": "ระหว่าง",
+      "sense_count": 3
+    },
+    {
+      "id": 243,
+      "thai": "ยา",
+      "sense_count": 2
+    },
+    {
+      "id": 245,
+      "thai": "เรียก",
+      "sense_count": 1
+    },
+    {
+      "id": 323,
+      "thai": "ปัญหา",
+      "sense_count": 1
+    },
+    {
+      "id": 325,
+      "thai": "ตาย",
+      "sense_count": 1
+    },
+    {
+      "id": 329,
+      "thai": "โลก",
+      "sense_count": 1
+    },
+    {
+      "id": 331,
+      "thai": "บอก",
+      "sense_count": 1
+    },
+    {
+      "id": 335,
+      "thai": "ค่า",
+      "sense_count": 1
+    },
+    {
+      "id": 336,
+      "thai": "ส่วน",
+      "sense_count": 1
+    },
+    {
+      "id": 339,
+      "thai": "ทาง",
+      "sense_count": 3
+    },
+    {
+      "id": 349,
+      "thai": "ตัวเอง",
+      "sense_count": 1
+    },
+    {
+      "id": 350,
+      "thai": "อื่น",
+      "sense_count": 1
+    },
+    {
+      "id": 363,
+      "thai": "สิ่ง",
+      "sense_count": 1
+    },
+    {
+      "id": 364,
+      "thai": "เดียว",
+      "sense_count": 1
+    }
+  ],
+  "sources": [
+    "https://en.wiktionary.org/wiki/เอา",
+    "https://en.wiktionary.org/wiki/สาว",
+    "https://dict.longdo.com/search/%2Aระหว่าง%2A/",
+    "https://dict.longdo.com/search/%2Aอย่าง%2A",
+    "https://en.wiktionary.org/wiki/ประเทศ",
+    "https://en.wiktionary.org/wiki/เจ้า"
+  ],
+  "method": "逐义项撰写并核对用法，三语说明；不改变原有义项、例句及学习进度标识。",
+  "quota": "User reported 36% weekly remaining before batch 01 (10 words); no account quota API available. This batch follows batch 02 (30 words).",
+  "stop": "User requested exactly 83 additional words, then pause."
+}

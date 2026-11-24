@@ -1,0 +1,41 @@
+{
+  "status": "complete",
+  "level": "中高级",
+  "total_words": 835,
+  "completed_words": 835,
+  "pending_words": 0,
+  "added_words": 834,
+  "added_senses": 957,
+  "preserved_usage_senses": 3216,
+  "new_audio": 1797,
+  "thai_audio_phrases_checked": 2264,
+  "batch_sizes": [
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    34
+  ],
+  "final_corrections": 67,
+  "version": "20261021-upper-intermediate-usage-69",
+  "renderer": "passed in Node for all new localized notes",
+  "browser_visual_test": "not performed",
+  "native_teacher_review": false,
+  "sources": [
+    "https://th.wiktionary.org/wiki/ทองแดง",
+    "https://th.wiktionary.org/wiki/สตรอว์เบอร์รี",
+    "https://th.wiktionary.org/wiki/อุดร",
+    "https://en.wiktionary.org/wiki/หวั่นไหว",
+    "https://th.wiktionary.org/wiki/อนุภาค",
+    "https://th.wiktionary.org/wiki/โขง",
+    "https://en.wiktionary.org/wiki/longan",
+    "https://phralan.in.th/coronation/vocabdetail.php?id=983"
+  ],
+  "saved_at": "2026-10-21T08:58:28",
+  "backup": "F:\\PY\\泰语学习\\网页版 - V2\\更新备份\\中高级用法最终复核-20261021-085827",
+  "installed_files_verified": true
+}

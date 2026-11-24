@@ -1,0 +1,68 @@
+<!doctype html>
+
+<html lang="zh-CN">
+
+<head>
+
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+
+  <meta name="description" content="泰语词汇学习：六级课程、每日一学、温故知新、逐词例句与离线发音。">
+
+  <title>泰语学习 · 我的学习空间</title>
+
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='12' fill='%234c56dc'/%3E%3Ctext x='20' y='28' text-anchor='middle' fill='white' font-size='29' font-family='sans-serif'%3Eก%3C/text%3E%3C/svg%3E">
+
+  <link rel="preload" href="fonts/noto-sans-sc-app.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="styles.css?v=20261021-language-icon-10"><script type="module" src="app.js?v=20261021-language-icon-10"></script>
+
+  <meta name="theme-color" content="#4c56dc">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+  <meta name="apple-mobile-web-app-title" content="泰语学习">
+
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <link rel="manifest" href="manifest.webmanifest">
+
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+  <link rel="stylesheet" href="pwa.css?v=20261021-language-icon-10">
+
+  <script type="module" src="pwa.js?v=20261021-language-icon-10"></script>
+
+  <link rel="stylesheet" href="scenarios.css?v=20261021-language-icon-10">
+
+</head>
+
+<body>
+
+  <a class="skip" href="#main">跳到学习内容</a>
+
+  <aside class="sidebar" aria-label="主导航">
+
+    <a class="brand" href="#study"><span class="brand-mark" lang="th">ก</span><span>泰语学习<small>THAI STUDIO</small></span></a>
+
+    <p class="nav-label">我的学习空间</p>
+
+    <nav id="nav"></nav>
+
+    <div class="sidebar-bottom"><p id="word-count">正在加载词库…</p><button class="source-link" data-action="sources">词库来源与说明 ↗</button></div>
+
+  </aside>
+
+  <div class="workspace">
+
+    <header class="topbar"><div class="breadcrumb">我的学习空间 <span>/</span> <strong id="page-name">词汇学习</strong></div><div class="top-actions"><label class="native-language"><span id="native-language-label" aria-hidden="true"><svg viewBox="0 0 40 40" width="36" height="36" fill="none" stroke="currentColor" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round" focusable="false"><circle cx="20" cy="20" r="18.5"/><ellipse cx="20" cy="20" rx="9" ry="18.5"/><path d="M20 1.5v37M1.5 20h37M5.2 8.9Q20 18 34.8 8.9M5.2 31.1Q20 22 34.8 31.1"/></svg></span><select id="native-language" aria-label="选择语言 / Choose language" translate="no"><option value="zh-CN" lang="zh-CN">中文</option><option value="en" lang="en">English</option><option value="my" lang="my">မြန်မာဘာသာ</option></select></label><span id="save-status" class="save-status" role="status">正在加载</span><button class="icon-button mute" id="mute-button" aria-label="开启静音" aria-pressed="false"></button><div class="avatar" aria-hidden="true">学</div></div></header>
+
+    <main id="main" tabindex="-1"><div class="loading">正在打开你的泰语词库…</div></main>
+
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <dialog id="modal"><div id="modal-body"></div><button class="modal-close icon-button" data-action="close-modal" aria-label="关闭">×</button></dialog>
+
+  <input type="file" id="import-file" accept=".json,application/json" hidden>
+
+</body></html>
+

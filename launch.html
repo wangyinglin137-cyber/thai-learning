@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>打开泰语学习</title>
+<style>body{font:18px/1.7 system-ui,sans-serif;max-width:640px;margin:15vh auto;padding:24px;color:#263252}button,a{font:inherit;color:#4c56dc}</style>
+<h1>正在打开新版泰语学习…</h1>
+<p id="status">正在更新页面缓存，学习进度与语言选择会保留。</p>
+<button id="retry" hidden>重试</button>
+<script>
+async function launch() {
+  const reset = new URLSearchParams(location.search).get('reset') === '1';
+  const status = document.getElementById('status');
+  if (reset) {
+    document.title = '重置泰语学习';
+    document.querySelector('h1').textContent = '正在清除缓存与学习进度…';
+    status.textContent = '清理完成后将重新打开网页，并提示选择母语。';
+  }
+  document.getElementById('retry').hidden = true;
+  try {
+    if ('serviceWorker' in navigator) {
+      const registration = await navigator.serviceWorker.getRegistration('/');
+      if (registration && new URL(registration.scope).pathname === '/') await registration.unregister();
+    }
+    if ('caches' in window) {
+      const prefix = 'thai-pwa-' + encodeURIComponent('/') + '-';
+      for (const name of await caches.keys()) {
+        if (name.startsWith(prefix) && (reset || !name.startsWith(prefix + 'audio-'))) await caches.delete(name);
+      }
+    }
+    if (reset) {
+      for (const storage of [localStorage, sessionStorage]) {
+        for (const key of Object.keys(storage)) {
+          if (key.startsWith('thai-studio-')) storage.removeItem(key);
+        }
+      }
+      // Existing learning tabs must not write their old in-memory progress back.
+      localStorage.setItem('thai-studio-reset', String(Date.now()));
+      localStorage.removeItem('thai-studio-reset');
+    }
+    // Normal startup preserves all learning progress; reset is explicit only.
+    location.replace('/?v=' + Date.now());
+  } catch (error) {
+    status.textContent = '页面更新未完成，请点击重试。' + error.message;
+    document.getElementById('retry').hidden = false;
+  }
+}
+document.getElementById('retry').onclick = launch;
+launch();
+</script></html>

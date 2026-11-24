@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-21",
+  "version": "20261021-advanced-usage-7",
+  "added_words": 78,
+  "added_senses": 78,
+  "languages": [
+    "zh-CN",
+    "en",
+    "my"
+  ],
+  "translation_method": "逐义项编写英语用法草稿，辅助翻译为中文和缅甸语；保留泰语原文并校核语言、搭配和发音。",
+  "method": "逐义项编写三语适用场景、用法提示及两组搭配；区分常用义、引申义与重复的词典释义，说明常见搭配和误用。",
+  "sources": [],
+  "preservation": "保留原词汇编号、分级、释义、例句和已有用法说明。",
+  "quality_note": "教学编写并校核，未经三语母语教师逐条审定。",
+  "final_review_version": "20261021-advanced-usage-8"
+}

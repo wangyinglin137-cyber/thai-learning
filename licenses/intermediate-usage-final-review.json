@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "date": "2026-10-20T15:52:00",
+  "version": "20261020-intermediate-usage-complete",
+  "intermediate_words": 1123,
+  "intermediate_senses": 1308,
+  "completed_words": 1123,
+  "pending_words": 0,
+  "added_words_this_task": 901,
+  "added_senses_this_task": 1016,
+  "original_usage_senses_preserved": 2200,
+  "new_audio_this_task": 1978,
+  "rendered_language_blocks": 3048,
+  "audio_phrases_checked": 2865,
+  "chinese_font_coverage": "passed",
+  "browser_visual_check": "not run; sandbox denied launch",
+  "batches_saved": 10,
+  "correction_senses": 44,
+  "quality_note": "Usage notes drafted and reviewed with machine translation assistance; not individually reviewed by native-language teachers.",
+  "backup": "F:\\PY\\泰语学习\\网页版 - V2\\更新备份\\中级用法全量复核-20261020-155220",
+  "production_byte_verification": "passed"
+}

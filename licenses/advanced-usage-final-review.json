@@ -1,0 +1,30 @@
+{
+  "status": "complete",
+  "level": "高级",
+  "total_words": 678,
+  "completed_words": 678,
+  "pending_words": 0,
+  "added_words": 678,
+  "added_senses": 770,
+  "preserved_usage_senses": 4173,
+  "new_audio": 1391,
+  "thai_audio_phrases_checked": 1795,
+  "batch_sizes": [
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    78
+  ],
+  "final_corrections": 115,
+  "version": "20261021-advanced-usage-8",
+  "renderer": "passed in Node for all new localized notes",
+  "browser_visual_test": "not performed",
+  "native_teacher_review": false,
+  "sources": [],
+  "saved_at": "2026-10-21T11:55:23",
+  "backup": "F:\\PY\\泰语学习\\网页版 - V2\\更新备份\\高级用法最终复核-20261021-115523",
+  "installed_files_verified": true
+}

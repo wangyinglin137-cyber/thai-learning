@@ -1,0 +1,27 @@
+[
+  {
+    "file": "volubilis_zh.xlsx",
+    "url": "https://www.dropbox.com/scl/fi/6x5ueq0uzc04mty9dn3ua/VOLUBILIS-Duo-Max-ZHO.xlsx?dl=1&rlkey=47hfu0p01e3wbhv5vx86aw0qk",
+    "sha256": "034886142ee5b821e48a76677fc645f5624cafa0b94f848d6e988b6a81e7656b"
+  },
+  {
+    "file": "lexitron.csv",
+    "url": "https://opend-portal.nectec.or.th/dataset/bdd85296-9398-499f-b3a7-aab85042d3f9/resource/6238e10d-3970-47d9-84a4-6b96494ddde7/download/telex-utf8.csv",
+    "sha256": "54e4ae3f5befc2fb0c18ea84f4b6152def64391818fea0dc90df829964b2f38a"
+  },
+  {
+    "file": "lexitron_license.zip",
+    "url": "https://opend-portal.nectec.or.th/dataset/bdd85296-9398-499f-b3a7-aab85042d3f9/resource/55683ab0-4f68-495a-b1bd-0783fafa9cbc/download/lexitron_2.0_csv.zip",
+    "sha256": "604fa2d1cccacfca01f919764ed5a99c78730afe55ddcd1863b42a8d56194840"
+  },
+  {
+    "file": "kaikki_thai.jsonl",
+    "url": "https://kaikki.org/dictionary/Thai/kaikki.org-dictionary-Thai.jsonl",
+    "sha256": "413f5f257987b25cffbfc45eacab4dbade2c34603f267d77e5546d789ddd4167"
+  },
+  {
+    "file": "frequency.txt",
+    "url": "https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/th/th_50k.txt",
+    "sha256": "20e7052f2d64222e1420c5d0b4ed6b68cd6290f0cf8b908d8bc6b0af781b6083"
+  }
+]
